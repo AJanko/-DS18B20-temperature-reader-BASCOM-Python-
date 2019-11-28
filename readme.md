@@ -5,7 +5,7 @@ Project purpose was to get data from microcontroller and process it.
 Microcontroller was programmed with BASCOM language. 
 Startet kit includes LCD data panel and DS18B20 temperature gauge. 
 
-BASCOM scrip twhich creates an animation on the LCD display and reads data from a temperature meter, which is then downloaded via a serial port and processed in a program written in Python, which draws a temperature graph from time to time.
+BASCOM script which creates an animation on the LCD display and reads data from a temperature meter, which is then downloaded via a serial port and processed in a program written in Python, which draws a temperature graph from time to time.
 
 When the chart is "completed" to the end it is saved in "jpeg" format, cleaned and supplemented again, everything continues constantly, collecting data for us and creating subsequent images by numbering them until the end of the program operation by the user.
 
